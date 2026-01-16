@@ -18,19 +18,19 @@ Ride-hailing platforms generate massive volumes of trip data, but actionable ins
 
 ## Dashboard Pages
 
-### 1. [Overall Performance page](visuals/1.overall_performance.png)
+**1. [Overall Performance page](visuals/1.overall_performance.png)**
 
 
-### 2. [Vehicle Analysis page](visuals/2.vehicle_analysis.png)
+**2. [Vehicle Analysis page](visuals/2.vehicle_analysis.png)**
 
 
-### 3. [ Revenue Analysis page](visuals/3.revenue_analysis.png)
+**3. [ Revenue Analysis page](visuals/3.revenue_analysis.png)**
 
 
-### 4. [Ride Cancellation Analysis page](visuals/4.cancellation_analysis.png)
+**4. [Ride Cancellation Analysis page](visuals/4.cancellation_analysis.png)**
 
 
-### 5. [Ratings page](visuals/5.ratings_analysis.png)
+**5. [Ratings page](visuals/5.ratings_analysis.png)**
 
 ## Key Insights
 - February shows unusually low ride volume, indicating potential seasonality or supply constraints
