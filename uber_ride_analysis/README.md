@@ -10,7 +10,12 @@ Ride-hailing platforms generate massive volumes of trip data, but actionable ins
 - Explore customer and driver rating patterns
 
 ## Dashboard Demo
-![Dashboard Demo](assets/demo.gif)
+
+![Dashboard Walkthrough](assets/Uber Ride Analytics.gif)
+
+📄 **PDF:**  
+[View the dashboard summary](assets/Uber Ride Analysis in Power BI.pdf)
+
 
 ## Dashboard Pages
 1. Overall Performance
