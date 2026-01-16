@@ -17,11 +17,15 @@ Ride-hailing platforms generate massive volumes of trip data, but actionable ins
 [View the dashboard summary](assets/Uber_Ride_Analysis.pdf)
 
 ## Dashboard Pages
-1. Overall Performance
-2. Vehicle Analysis
-3. Revenue Analysis
-4. Ride Cancellation Analysis
-5. Ratings by Vehicle Type
+1. ![Overall Performance](visuals/1.overall_performance.png)
+
+2. ![Vehicle Analysis](visuals/2.vehicle_analysis.png)
+
+3. ![Revenue Analysis](visuals/3.revenue_analysis.png)
+
+4. ![Ride Cancellation Analysis](visuals/4.cancellation_analysis.png)
+
+5. ![Ratings Analysis](visuals/5.ratings_analysis.png)
 
 ## Key Insights
 - February shows unusually low ride volume, indicating potential seasonality or supply constraints
